@@ -1,0 +1,29 @@
+{
+  "Configurations" : ["Debug", "Release"],
+  "iOS" : [{
+      "LocalName" : "images",
+      "RemoteDir" : "StartUp\\Documents\\",
+      "Configurations" : [],
+      "IsDirectory" : true,
+      "IncludeSubDirectories" : false
+    }, {
+      "LocalName" : "audio\\iOS",
+      "RemoteDir" : "StartUp\\Documents\\",
+      "Configurations" : [],
+      "IsDirectory" : true,
+      "IncludeSubDirectories" : false
+    }],
+  "Android" : [{
+      "LocalName" : "audio\\Android",
+      "RemoteDir" : "assets\\internal",
+      "Configurations" : [],
+      "IsDirectory" : true,
+      "IncludeSubDirectories" : false
+    }, {
+      "LocalName" : "images",
+      "RemoteDir" : "assets\\internal",
+      "Configurations" : [],
+      "IsDirectory" : true,
+      "IncludeSubDirectories" : false
+    }]
+}
