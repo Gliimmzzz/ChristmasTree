@@ -7,8 +7,8 @@ A silly little program that simply displays a Christmas tree with various decora
 
 ## What it does
 
-- **Display a Christmas Tree**: Beautiful tree with star on top, trunk, and three-layered foliage
-- **Interactive Ornaments**: 15 clickable bulbs and gingerbread men in various colors
+- **Display a Christmas Tree**: Beautiful Christmas tree with star on top, set in someone's house in front of a fireplace
+- **Interactive Ornaments**: 30 clickable bulbs and gingerbread men in various colors
 - **Physics Simulation**: Bulbs fall with gravity when clicked, rotating and fading as they fall
 - **Sound Effects**: Breaking sound when bulbs hit the floor
 - **Multi-Platform**: Supports Windows, Mac, Android, and iOS
